@@ -77,7 +77,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgements
 - Inspired by the foundational work of Gatys et al., "A Neural Algorithm of Artistic Style" (2015).
 - Special thanks to the contributors of TensorBoard for providing a robust tool for performance monitoring.
-
-## Contact
-For questions or collaborations, please contact [mugunthankesavan07@gmail.com](mailto:mugunthankesavan07@gmail.com).
-
